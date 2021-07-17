@@ -1,0 +1,6 @@
+Test/AmazonTest.class
+Utils/WaitUntilElementIsVisible.class
+PageRepository/PageRegistry.class
+PageRepository/PageResultBirthdayGiftList.class
+PageRepository/PageDashboard.class
+Factory/DriverFactory.class
